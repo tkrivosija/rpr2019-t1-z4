@@ -8,7 +8,7 @@ public class Main {
     private static Supermarket supermarket = new Supermarket();
 
     private static void unosArtikalaUMarket(){
-        supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "1"));
+       /* supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "1"));
         supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "2"));
         supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "3"));
         supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "4"));
@@ -27,7 +27,7 @@ public class Main {
         supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "17"));
         supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "18"));
         supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "19"));
-        supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "20"));
+        supermarket.dodajArtikl(new Artikl("Biciklo", 1000, "20"));*/
     }
 
     public static void ispisArtikala(Artikl[] artikli){
