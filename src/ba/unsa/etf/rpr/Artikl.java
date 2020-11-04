@@ -22,7 +22,4 @@ public class Artikl {
     public String getKod() {
         return kod;
     }
-
-
-
 }

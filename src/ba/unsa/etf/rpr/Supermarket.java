@@ -3,7 +3,7 @@ package ba.unsa.etf.rpr;
 import java.util.ArrayList;
 
 public class Supermarket {
-    private static ArrayList<Artikl> artikli = new ArrayList<>(1000);
+    private ArrayList<Artikl> artikli = new ArrayList<>(1000);
 
     public void dodajArtikl(Artikl a){
         artikli.add(a);
